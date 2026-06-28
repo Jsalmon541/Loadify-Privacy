@@ -1,6 +1,6 @@
 # Privacy Policy for Loadify
 
-**Last updated: JUNE 27, 2026**
+**Last updated: JUNE 28, 2026**
 
 Loadify ("the app," "we," "us") is a personal productivity app. This policy explains how the app handles your information. The short version: everything you create stays on your device. We do not collect, transmit, sell, or share your data with anyone.
 
@@ -23,20 +23,20 @@ This sharing happens **entirely on your device**, through a local data-sharing m
 
 ## Backups you create
 
-The app lets you optionally export a backup of your data. When you do this, the backup is **encrypted with a password that you choose** and saved to a location **you select** (for example, your Files app or a cloud drive).
+The app lets you optionally export a backup of your data. When you do this, the backup is encrypted with a password that you choose and then saved or sent to a destination you choose through your device's share sheet — for example, saving to your Files app or a cloud drive, or sending via AirDrop, Mail, or Messages.
 
-- The app does not send this backup anywhere on its own — you decide where it goes.
-- If you choose to save your backup to a cloud service (such as iCloud Drive), that file is then handled according to **that provider's** privacy policy, not ours.
-- Keep your backup password safe: because the backup is encrypted, **we cannot recover or reset it for you**, and a lost password means the backup cannot be opened.
+The app does not send this backup anywhere on its own — you decide where it goes.
+If you choose to save your backup to a cloud service (such as iCloud Drive), that file is then handled according to that provider's privacy policy, not ours.
+Keep your backup password safe: because the backup is encrypted, we cannot recover or reset it for you, and a lost password means the backup cannot be opened.
 
 ## Sharing a task with someone else
 
-The app lets you optionally send an individual task to another person. When you do this, the task is **encrypted with a password** (one you choose or one the app generates for you) into a file that you then share through whatever channel you pick — for example, Messages, email, or AirDrop — or save to your device.
+The app lets you optionally send an individual task to another person. When you do this, the task is encrypted with a password (one you choose or one the app generates for you) into a file that you then share through whatever channel you pick — for example, Messages, email, or AirDrop — or save to your device.
 
-- The app does not send this file anywhere on its own — you decide who receives it and how.
-- The password is shared at your discretion; for your security we recommend sending it through a **different channel** than the file itself. As a convenience, the app can copy the password to your device clipboard when you tap to copy it.
-- As with backups, **we cannot recover the password for you**, and the recipient needs it to open the shared task.
-- Once the file leaves the app, it is handled according to the privacy policy of whatever service or app you use to send or store it, not ours.
+The app does not send this file anywhere on its own — you decide who receives it and how.
+The password is shared at your discretion; for your security we recommend sending it through a different channel than the file itself. As a convenience, the app can copy the password to your device clipboard when you tap to copy it.
+As with backups, we cannot recover the password for you, and the recipient needs it to open the shared task.
+Once the file leaves the app, it is handled according to the privacy policy of whatever service or app you use to send or store it, not ours.
 
 ## Device permissions
 
